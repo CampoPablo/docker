@@ -56,12 +56,19 @@ i: interative mode.
 write "exit" to quit
 ```
 
-## step-9: drop container
+## Step-9: Container Stop, Start 
+```
+docker stop <container-name>
+docker start  <container-name>
+```
+
+
+## step-10: drop container
 ```
 docker rm [image id]
 ```
 
-## step-9: drop image ubuntu
+## step-11: drop image ubuntu
 ```
 docker image rm ubuntu
 ```

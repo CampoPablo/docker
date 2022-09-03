@@ -23,6 +23,6 @@
 		- ~/.docker/config.json
 	- Remove the line **“credSstore” : “osxkeychain”,** in config.json
 
-## How install docker with Windows for Linux SubSystem 2
+## How install docker with Windows for Linux Subsystem 2
 - https://docs.docker.com/desktop/windows/wsl/
  
